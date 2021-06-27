@@ -9,3 +9,4 @@ It visualises the following techniques:
   <li>Merge Sort</li>
   </ul>
 <b>Tech Stack Used : </b> <u> HTML, CSS, Bootstrap, JavaScript </u>
+<a href="https://anshu2305.github.io/Sorting_Visualiser_/"> Check it out here! </a>
