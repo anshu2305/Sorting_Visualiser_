@@ -5,10 +5,10 @@ body {
     line-height: 1.4;
 }
 h1{
-    padding: 5px;
+    padding: 3px;
     border: 1px solid grey;
     border-radius: 7px;
-    background: white !important;
+    background: linear-gradient(white,grey,white,grey) !important;
     color: black !important;
 }
 .flex-container{
