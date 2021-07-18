@@ -8,7 +8,7 @@ h1{
     padding: 3px;
     border: 1px solid black;
     border-radius: 7px;
-    background: linear-gradient(to right, white,black,white,black) !important;
+    background-image: linear-gradient(to right, white,black,white,black) !important;
     color: black !important;
 }
 .flex-container{
