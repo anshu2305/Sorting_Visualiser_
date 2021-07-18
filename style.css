@@ -6,8 +6,9 @@ body {
 }
 h1{
     padding: 5px;
+    border: 1px solid grey;
     border-radius: 7px;
-    background-color: white !important;
+    background: white !important;
     color: black !important;
 }
 .flex-container{
