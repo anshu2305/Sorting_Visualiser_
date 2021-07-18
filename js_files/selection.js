@@ -1,5 +1,5 @@
 async function selection(){
-    console.log('In selection()');
+    console.log('In selection() console');
     const ele = document.querySelectorAll(".bar");
     for(let i = 0; i < ele.length; i++){
         console.log('In ith loop');
