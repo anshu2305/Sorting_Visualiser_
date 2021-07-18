@@ -9,7 +9,7 @@ async function selection(){
         for(let j = i+1; j < ele.length; j++){
             console.log('In jth loop');
             // Change color for the current comparision (in consideration for min_index)
-            ele[j].style.background = 'red';
+            ele[j].style.background = 'yellow';
 
             await waitforme(delay);
             if(parseInt(ele[j].style.height) < parseInt(ele[min_index].style.height)){
